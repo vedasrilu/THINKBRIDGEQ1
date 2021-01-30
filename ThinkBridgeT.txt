@@ -1,0 +1,23 @@
+1. about the url: opened with browser (chrome) only
+
+2. add new comp: it is button, that allows to add new components: located at the top left
+
+3. name field: below add comp: 
+   allows alphanumeric values with no special symbols of length upto 20 char
+
+4. description: below name field: 
+   allows alhpa+space+special symbols of length upto 300 characters
+
+5. price: below desc field: allows digits only:upto 10 charaters:no spaces:only comma symbol
+
+6. image: below price field: allows image to be uploaded from device/google drive: 
+   allows image size upto 100KB: allows thumbnails upto 100 characters 
+
+7. list of items: display list of items in alphabetical order: 
+   allows to change order in desc/in order of price
+
+8. delete list of items: shouldnt be displayed in list after deletion.
+
+9. add new item: should be displayed in the list of items.
+
+10.sql: new item should be updated/deleted item should be updated.
